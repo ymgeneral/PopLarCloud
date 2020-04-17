@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Device", "Device\Device.csproj", "{35E44BFF-52B4-447F-B439-26DC422F15F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{7C7ECB65-1C6D-4321-B058-4EB01123D641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoplarCloud-AnyCPU", "PopLarCloud\PoplarCloud-AnyCPU.csproj", "{3C299960-C7A6-4CE6-AA55-DB0135C2803F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E44BFF-52B4-447F-B439-26DC422F15F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E44BFF-52B4-447F-B439-26DC422F15F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E44BFF-52B4-447F-B439-26DC422F15F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E44BFF-52B4-447F-B439-26DC422F15F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C7ECB65-1C6D-4321-B058-4EB01123D641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7ECB65-1C6D-4321-B058-4EB01123D641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7ECB65-1C6D-4321-B058-4EB01123D641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7ECB65-1C6D-4321-B058-4EB01123D641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C299960-C7A6-4CE6-AA55-DB0135C2803F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C299960-C7A6-4CE6-AA55-DB0135C2803F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C299960-C7A6-4CE6-AA55-DB0135C2803F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C299960-C7A6-4CE6-AA55-DB0135C2803F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3767B4A2-BBCA-497E-AAA2-65979E5D2EF4}
+	EndGlobalSection
+EndGlobal
